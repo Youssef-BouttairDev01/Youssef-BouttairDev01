@@ -1,12 +1,40 @@
-## Hi there 👋
 
-# Hi, I'm Youssef 👋
+# 👋 Welcome to Youssef Bouttair's GitHub  
 
-🚀 Full Stack Developer | 🎨 Web Designer  
+🌐 **Full-Stack Developer | Passionate Builder | Lifelong Learner**  
 
-- 🔭 Currently working on web apps and dashboards  
-- 🌱 Learning React & Node.js  
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/yourprofile)
+I’m **Youssef Bouttair**, a passionate full-stack developer who loves turning ideas into reality through clean and scalable code.  
+My goal is not just to code — but to **build impactful digital solutions** and share knowledge with others on the same journey.  
 
-- 
+---
+
+## 🧑‍💻 About Me
+- 🔥 Passionate about **Web Development** and always pushing my limits.  
+- 🚀 Skilled in **JavaScript, React, Node.js, PHP, Laravel, and MySQL**.  
+- 📚 Continuously learning, experimenting, and improving my craft.    
+
+---
+
+## 🛠 Tech Stack
+**Languages & Frameworks**  
+JavaScript | React.js | Node.js | PHP | Laravel | Python  
+
+**Databases & Tools**  
+MySQL | MongoDB | Git | GitHub | UML | Scrum  
+
+**Frontend & UI**  
+HTML | CSS | Bootstrap | Responsive Design  
+
+---
+
+## 🌟 Featured Projects
+- 🔗 Portfolio Website (coming soon 🚀) 
+- ⚙️ Scalable APIs and backend systems with Node.js & Laravel.  
+- 🎨 Modern responsive web apps powered by React.  
+
+---
+
+## 📬 Connect with Me
+- 💼 Portfolio: *soon launching*  
+- 🌍 LinkedIn :  https://www.linkedin.com/in/youssef-bouttair-4729bb228/
 
