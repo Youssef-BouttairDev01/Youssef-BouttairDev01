@@ -29,8 +29,7 @@ HTML | CSS | Bootstrap | Responsive Design
 
 ## 🌟 Featured Projects
 - 🔗 Portfolio Website (coming soon 🚀) 
-- ⚙️ Scalable APIs and backend systems with Node.js & Laravel.  
-- 🎨 Modern responsive web apps powered by React.  
+- 🎨 Modern, responsive, user-freindly web apps  
 
 ---
 
