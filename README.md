@@ -32,12 +32,6 @@ My goal is not just to code — but to **build impactful digital solutions** and
 
 
 
-
-
-
-
-
-
 ---
 
 ## 🧑‍💻 About Me
@@ -47,25 +41,7 @@ My goal is not just to code — but to **build impactful digital solutions** and
 
 ---
 
-## 🛠 Tech Stack
-**Languages & Frameworks**  
-JavaScript | React.js | Node.js | PHP | Laravel | Python  
-
-**Databases & Tools**  
-MySQL | MongoDB | Git | GitHub | UML | Scrum  
-
-**Frontend & UI**  
-HTML | CSS | Bootstrap | Responsive Design  
-
----
-
 ## 🌟 Featured Projects
 - 🔗 Portfolio Website (coming soon 🚀) 
 - 🎨 Modern, responsive, user-freindly web apps  
-
----
-
-## 📬 Connect with Me
-- 💼 Portfolio: *soon launching*  
-- 🌍 LinkedIn :  https://www.linkedin.com/in/youssef-bouttair-4729bb228/
 
